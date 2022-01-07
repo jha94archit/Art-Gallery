@@ -14,7 +14,9 @@ function Hero() {
                 </div>
             </div>
             <div className="hero-button">
+                <a href="#gallery">
                 <Button />
+                </a>
             </div>
         </div>
     )
