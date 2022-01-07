@@ -1,0 +1,24 @@
+.note-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.note-title h3 {
+  font-family: "Moon Dance", cursive;
+  font-size: 32px;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 15px;
+  width: 50%;
+}
+
+.social-icon {
+  cursor: pointer;
+}

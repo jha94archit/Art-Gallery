@@ -1,0 +1,32 @@
+.hero-container {
+  background-image: url("https://images.unsplash.com/photo-1536924940846-227afb31e2a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3566&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  box-shadow: 0px 15px 10px -15px #111;
+  height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.hero-title h3 {
+  font-family: "The Nautigal", cursive;
+  font-size: 120px;
+  font-weight: bold;
+}
+
+.text-container {
+  width: 25%;
+}
+
+.hero-text-1 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.hero-button {
+  color: white;
+}
